@@ -1,0 +1,26 @@
+.header {
+    background: #FFF;
+    text-align: center;
+    border-bottom: 2px solid #7e6b6b;
+}
+
+.header__inner {
+    margin: 0 auto;
+    padding: 20px 15px;
+    max-width: 1230px;
+}
+
+.header__logo {
+    color: #7e6b6b;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 24px;
+
+}
+
+.h2 {
+    color: #7e6b6b;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 24px;
+}
